@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: 'Hi, I am'
+      label: 'Hi, I am archie vora.'
       color: text-primary
       type: Badge
     elementId: ''
