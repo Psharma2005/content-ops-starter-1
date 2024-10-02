@@ -62,7 +62,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Projects
+      text: Work Experince
       color: text-dark
       styles:
         self:
@@ -95,7 +95,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/download (1).png
           styles:
             self:
               borderRadius: x-large
@@ -106,7 +106,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon2.svg
+          url: /images/download (2).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -131,7 +131,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/download (1).jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -177,7 +177,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: TOOLS
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -185,10 +185,10 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/download (4).jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/download (3).png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
@@ -208,6 +208,27 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow
+    styles:
+      self:
+        justifyContent: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
