@@ -106,7 +106,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/download.png
+          url: /images/download (2).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
