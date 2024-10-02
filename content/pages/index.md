@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        I am a Datadriven Marketer that loves leraging data and creativity to
-        drive product adoption and customer acqization
+        Data-Driven Marketer Leveraging Creativity for Product Adoption &
+        Customer Acquisition
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
