@@ -103,10 +103,22 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Summary:**
+
+
+          As a **Digital Product Marketing Manager**, I specialize in driving
+          **customer acquisition** and **product adoption** for B2C and D2C
+          clients through **multi-channel and omnichannel strategies**. I excel
+          in optimizing campaigns across web, app, and mobile platforms to
+          increase engagement and conversions. My expertise spans end-to-end
+          client communication, personalized recommendations, and market
+          research to stay competitive. By leveraging data-driven insights, I’ve
+          successfully increased website and app traffic, improved user
+          engagement, and optimized mobile experiences, leading to measurable
+          results such as **X% growth in traffic** and **Y% increase in
+          conversions** across channels.
+
         image:
           url: /images/download (2).png
           altText: Featured icon two
