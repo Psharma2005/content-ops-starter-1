@@ -202,7 +202,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Projects
+      text: Major Projects
       color: text-dark
       styles:
         self:
