@@ -5,8 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        I am a Product marketer with 5+ years of driving growth for B2B, B2C,
-        and AI-powered tech.
+        I am a Datadriven Marketer that loves leraging data and creativity to
+        drive product adoption and customer acqization
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
