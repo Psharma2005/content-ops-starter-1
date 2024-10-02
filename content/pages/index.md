@@ -62,13 +62,13 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Projects
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: 500k
@@ -158,7 +158,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       styles:
         self:
