@@ -25,15 +25,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/WhatsApp Image 2024-10-01 at 23.46.44.jpeg
       altText: Unblock your team boost your time to production preview
@@ -71,12 +62,23 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500k
+        title: ''
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Grew internal AV investors' portfolio investments by 20% over 6 months
+          via focused email campaigns and targeted advertising.
+
+
+          As a syndications and email specialist, my role involved onboarding
+          investments from global investors through email and marketing
+          campaigns. I was responsible for devising the most effective testing
+          strategy, analyzing the campaigns, and segmenting for optimal
+          utilization
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -101,10 +103,21 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          ****
+
+
+          As a **Digital Product Marketing Manager**, I specialize I drove
+          **customer acquisition** and **product adoption** for B2C and D2C
+          clients through **multi-channel and omnichannel strategies**. I excel
+          in optimizing campaigns across web, app, and mobile platforms to
+          increase engagement and conversions. My expertise spans end-to-end
+          client communication, personalized recommendations, and market
+          research to stay competitive. By leveraging data-driven insights, I’ve
+          successfully increased website and app traffic, improved user
+          engagement, and optimized mobile experiences, leading to measurable
+          results such as **X% growth in traffic** and **Y% increase in
+          conversions** across channels.
         image:
           url: /images/download (2).png
           altText: Featured icon two
@@ -211,7 +224,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Projects
+      text: Major Projects
       color: text-dark
       styles:
         self:
@@ -240,40 +253,16 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Certifications
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
+    subtitle: 'Achievements, Certifications and other cool stuff I have done'
+    text: ''
     badge:
-      label: Key Benefits
+      label: ''
       color: text-primary
       styles:
         self:
