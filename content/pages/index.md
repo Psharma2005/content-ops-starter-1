@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I have been a Marketer for 5 years
+      text: >-
+        I am a Product marketer with 5+ years of driving growth for B2B, B2C,
+        and AI-powered tech.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
@@ -32,10 +34,16 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image 2024-10-01 at 8.45.30 PM.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 1
+          padding:
+            - pr-0
+          borderRadius: large
     badge:
       label: 'Hi, I am archie vora.'
       color: text-primary
