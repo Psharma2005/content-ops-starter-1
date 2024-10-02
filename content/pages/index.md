@@ -188,7 +188,7 @@ sections:
       - url: /images/download (4).jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/download (3).png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
