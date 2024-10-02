@@ -5,15 +5,16 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        I am a Product marketer with 5+ years of driving growth for B2B, B2C,
-        and AI-powered tech.
-      color: text-dark
+        Data-Driven Marketer Leveraging Creativity for Product Adoption &
+        Customer Acquisition
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Where Data Meets Creativity: Driving Results through Strategic Insights
+      and Innovative Campaigns
+
     actions:
       - label: Get started
         altText: ''
@@ -34,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/WhatsApp Image 2024-10-01 at 8.45.30 PM.jpeg
+      url: /images/WhatsApp Image 2024-10-01 at 23.46.44.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
