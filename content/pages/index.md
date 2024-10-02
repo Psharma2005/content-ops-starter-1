@@ -62,7 +62,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Projects
+      text: Work Experince
       color: text-dark
       styles:
         self:
