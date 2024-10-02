@@ -64,10 +64,21 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Grew internal AV investors' portfolio investments by 20% over 6 months
+          via focused email campaigns and targeted advertising.
+
+
+          As a syndications and email specialist, my role involved onboarding
+          investments from global investors through email and marketing
+          campaigns. I was responsible for devising the most effective testing
+          strategy, analyzing the campaigns, and segmenting for optimal
+          utilization
+
+
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
