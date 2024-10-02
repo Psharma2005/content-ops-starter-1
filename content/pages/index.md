@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: I have been a Marketer for 5 years
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
