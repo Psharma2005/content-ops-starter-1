@@ -103,11 +103,11 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >+
-          **Summary:**
+        text: >
+          ****
 
 
-          As a **Digital Product Marketing Manager**, I specialize in driving
+          As a **Digital Product Marketing Manager**, I specialize I drove
           **customer acquisition** and **product adoption** for B2C and D2C
           clients through **multi-channel and omnichannel strategies**. I excel
           in optimizing campaigns across web, app, and mobile platforms to
@@ -118,7 +118,6 @@ sections:
           engagement, and optimized mobile experiences, leading to measurable
           results such as **X% growth in traffic** and **Y% increase in
           conversions** across channels.
-
         image:
           url: /images/download (2).png
           altText: Featured icon two
