@@ -211,7 +211,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Projects
       color: text-dark
       styles:
         self:
