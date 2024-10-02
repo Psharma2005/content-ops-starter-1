@@ -43,6 +43,7 @@ sections:
           borderWidth: 1
           padding:
             - pr-0
+          borderRadius: large
     badge:
       label: 'Hi, I am archie vora.'
       color: text-primary
