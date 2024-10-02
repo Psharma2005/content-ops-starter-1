@@ -7,7 +7,7 @@ sections:
       text: >-
         Data-Driven Marketer Leveraging Creativity for Product Adoption &
         Customer Acquisition
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
