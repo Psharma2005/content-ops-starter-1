@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I have been a Marketer for 5 years
+      text: >-
+        I am a Product marketer with 5+ years of driving growth for B2B, B2C,
+        and AI-powered tech.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
